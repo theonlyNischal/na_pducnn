@@ -1,6 +1,12 @@
 Pneumonia Detection from Chest X-rays using Resnet18 and Vgg16
+======================================================================
 
 This is a case study comparing Resnet18 and Vgg16 models for pneumonia detection from chest X-rays. The study includes exploratory data analysis (EDA) and model comparison. 
+
+Model
+----------
+- Both VGG16 and Resnet18 is implemented from scratch and using pretrained model from PyTorch.
+- If using pretrained model, make sure to enable internet on kaggle.
 
 Datasets
 --------
