@@ -20,8 +20,8 @@ Notebooks
 ------------
 
 - EDA Dataset: https://www.kaggle.com/nischallal/eda-detection-of-pneumonia-in-x-ray
-- Resnet18 Model: https://www.kaggle.com/code/nischallal/resnet18-detection-of-pneumonia-in-x-ray
-- Vgg16 Model: https://www.kaggle.com/code/nischallal/vgg16-scratch-detection-of-pneumonia-in-x-ray
+- Resnet18 Model from Scratch: https://www.kaggle.com/code/nischallal/resnet18-detection-of-pneumonia-in-x-ray
+- Vgg16 Model from Scratch: https://www.kaggle.com/code/nischallal/vgg16-scratch-detection-of-pneumonia-in-x-ray
 
 
 Usage
